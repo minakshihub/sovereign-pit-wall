@@ -1,3 +1,12 @@
+
+
+**SOVEREIGN PIT WALL**
+
+### 📺 Watch our 3-Minute Pitch & Architecture Breakdown
+**[Click Here to Watch the Sovereign Pit Wall Video on YouTube](https://www.youtube.com/watch?v=0ve_dotfrcc)**
+
+
+
 ![Sovereign Pit-Wall Architecture](Sovereign_Pit_Wall_image.png)
 
 **🏎️ Sovereign Pit-Wall: Zero-Latency AI Telemetry**
